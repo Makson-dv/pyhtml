@@ -39,4 +39,4 @@ ul(["Capital: Algiers", "Official language: Arabic", "Currency: Algerian dinar"]
 html_output = html(lang="en", title="Algeria Example Page", dir="ltr")
 save("algeria.html", html_output)
 
-Made by Lakson-dv
+#Made by Makson-dv
